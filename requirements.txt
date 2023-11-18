@@ -1,0 +1,6 @@
+ipykernel
+matplotlib
+pandas
+polars
+scipy
+yfinance
