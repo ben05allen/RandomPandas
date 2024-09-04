@@ -1,7 +1,9 @@
 ipykernel
 matplotlib
+openpyxl
 pandas
 polars
 pyarrow
 scipy
 yfinance
+xlrd
