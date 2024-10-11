@@ -1,9 +1,11 @@
+cartopy
 ipykernel
 matplotlib
 openpyxl
 pandas
 polars
 pyarrow
+requests
 scipy
 yfinance
 xlrd
